@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.apple.actool.compilation-results</key>
+	<dict>
+		<key>output-files</key>
+		<array>
+			<string>/Users/felipemomm/Downloads/GoneBananas/GoneBananasiOS/obj/iPhone/Debug/actool/bundle/AppIcons40x40@2x.png</string>
+			<string>/Users/felipemomm/Downloads/GoneBananas/GoneBananasiOS/obj/iPhone/Debug/actool/bundle/AppIcons40x40@3x.png</string>
+			<string>/Users/felipemomm/Downloads/GoneBananas/GoneBananasiOS/obj/iPhone/Debug/actool/bundle/AppIcons60x60@2x.png</string>
+			<string>/Users/felipemomm/Downloads/GoneBananas/GoneBananasiOS/obj/iPhone/Debug/actool/bundle/AppIcons40x40@2x~ipad.png</string>
+			<string>/Users/felipemomm/Downloads/GoneBananas/GoneBananasiOS/obj/iPhone/Debug/actool/partial-info.plist</string>
+		</array>
+	</dict>
+	<key>com.apple.actool.document.warnings</key>
+	<array>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcons.appiconset</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/felipemomm/Downloads/GoneBananas/GoneBananasiOS/Resources/Images.xcassets</string>
+			<key>message</key>
+			<string>A 76x76 app icon is required for iPad apps targeting iOS 7.0 and later</string>
+			<key>type</key>
+			<string>Missing Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcons.appiconset</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/felipemomm/Downloads/GoneBananas/GoneBananasiOS/Resources/Images.xcassets</string>
+			<key>message</key>
+			<string>A 76x76@2x app icon is required for iPad apps targeting iOS 7.0 and later</string>
+			<key>type</key>
+			<string>Missing Content</string>
+		</dict>
+		<dict>
+			<key>affected-items</key>
+			<array>
+				<string>./AppIcons.appiconset/[car][120x120][][][1x][2d][(null)]</string>
+				<string>./AppIcons.appiconset/[watch][29.3x29.3][companionSettings][][3x][2d][(null)]</string>
+				<string>./AppIcons.appiconset/[watch][44x44][appLauncher][42mm][2x][2d][(null)]</string>
+			</array>
+			<key>catalog</key>
+			<string>/Users/felipemomm/Downloads/GoneBananas/GoneBananasiOS/Resources/Images.xcassets</string>
+			<key>message</key>
+			<string>The app icon set "AppIcons" has 3 unassigned children.</string>
+			<key>type</key>
+			<string>Ambiguous Content</string>
+		</dict>
+	</array>
+</dict>
+</plist>

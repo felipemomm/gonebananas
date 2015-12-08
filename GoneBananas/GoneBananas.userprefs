@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="GoneBananasAndroid/GoneBananasAndroid.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="Android.192.168.56.101:5555" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GoneBananasShared/Layers/GameOverLayer.cs">
+    <Files>
+      <File FileName="GoneBananasShared/Layers/GameLayer.cs" Line="94" Column="37" />
+      <File FileName="GoneBananasShared/Layers/GameOverLayer.cs" Line="51" Column="75" />
+      <File FileName="GoneBananasShared/Layers/GameStartLayer.cs" Line="28" Column="56" />
+      <File FileName="GoneBananasiOS/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="GoneBananasShared/Physics/CCPhysicsSprite.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

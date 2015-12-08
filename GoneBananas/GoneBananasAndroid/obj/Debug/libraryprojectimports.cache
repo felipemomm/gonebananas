@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>/Users/felipemomm/Downloads/GoneBananas/GoneBananasAndroid/obj/Debug/__library_projects__/CocosSharp/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/felipemomm/Downloads/GoneBananas/GoneBananasAndroid/obj/Debug/__library_projects__/Lidgren.Network/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/felipemomm/Downloads/GoneBananas/GoneBananasAndroid/obj/Debug/__library_projects__/MonoGame.Framework/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/felipemomm/Downloads/GoneBananas/GoneBananasAndroid/obj/Debug/__library_projects__/box2d/library_project_imports/res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>/Users/felipemomm/Downloads/GoneBananas/GoneBananasAndroid/obj/Debug/__library_projects__/CocosSharp/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>/Users/felipemomm/Downloads/GoneBananas/GoneBananasAndroid/obj/Debug/__library_projects__/Lidgren.Network/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>/Users/felipemomm/Downloads/GoneBananas/GoneBananasAndroid/obj/Debug/__library_projects__/MonoGame.Framework/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>/Users/felipemomm/Downloads/GoneBananas/GoneBananasAndroid/obj/Debug/__library_projects__/box2d/library_project_imports/assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>/Users/felipemomm/Downloads/GoneBananas/GoneBananasAndroid/obj/Debug/__library_projects__/CocosSharp.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/felipemomm/Downloads/GoneBananas/GoneBananasAndroid/obj/Debug/__library_projects__/Lidgren.Network.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/felipemomm/Downloads/GoneBananas/GoneBananasAndroid/obj/Debug/__library_projects__/MonoGame.Framework.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/felipemomm/Downloads/GoneBananas/GoneBananasAndroid/obj/Debug/__library_projects__/box2d.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="GoneBananasAndroid.GoneBananasAndroid">
+  <!--suppress UsesMinSdkAttributes-->
+  <uses-sdk android:minSdkVersion="14" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <application android:label="Super Donkey Kong" android:name="mono.android.app.Application" android:allowBackup="true" android:icon="@drawable/ic_launcher" android:debuggable="true">
+    <activity android:alwaysRetainTaskState="true" android:configChanges="keyboard|keyboardHidden" android:icon="@drawable/ic_launcher" android:label="GoneBananas" android:launchMode="singleInstance" android:screenOrientation="portrait" android:theme="@android:style/Theme.NoTitleBar" android:name="md52c78c4d539c92b7bb8344891980be52e.MainActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="GoneBananasAndroid.GoneBananasAndroid.mono.MonoRuntimeProvider.__mono_init__" />
+    <!--suppress ExportedReceiver-->
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.GoneBananasAndroid.GoneBananasAndroid" />
+      </intent-filter>
+    </receiver>
+  </application>
+</manifest>

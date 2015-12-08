@@ -1,0 +1,15 @@
+/Users/felipemomm/Downloads/GoneBananas/GoneBananasiOS/obj/iPhone/Debug/mtouch-cache/Link/System.Runtime.Serialization.dll
+/Users/felipemomm/Downloads/GoneBananas/GoneBananasiOS/obj/iPhone/Debug/mtouch-cache/Link/System.dll
+/Users/felipemomm/Downloads/GoneBananas/GoneBananasiOS/obj/iPhone/Debug/mtouch-cache/Link/System.Xml.dll
+/Users/felipemomm/Downloads/GoneBananas/GoneBananasiOS/obj/iPhone/Debug/mtouch-cache/Link/ICSharpCode.SharpZipLib.dll
+/Users/felipemomm/Downloads/GoneBananas/GoneBananasiOS/obj/iPhone/Debug/mtouch-cache/Link/box2d.dll
+/Users/felipemomm/Downloads/GoneBananas/GoneBananasiOS/obj/iPhone/Debug/mtouch-cache/Link/System.Core.dll
+/Users/felipemomm/Downloads/GoneBananas/GoneBananasiOS/obj/iPhone/Debug/mtouch-cache/Link/MonoGame.Framework.dll
+/Users/felipemomm/Downloads/GoneBananas/GoneBananasiOS/obj/iPhone/Debug/mtouch-cache/Link/Lidgren.Network.dll
+/Users/felipemomm/Downloads/GoneBananas/GoneBananasiOS/obj/iPhone/Debug/mtouch-cache/Link/monotouch.dll
+/Users/felipemomm/Downloads/GoneBananas/GoneBananasiOS/obj/iPhone/Debug/mtouch-cache/Link/mscorlib.dll
+/Users/felipemomm/Downloads/GoneBananas/GoneBananasiOS/obj/iPhone/Debug/mtouch-cache/Link/GoneBananas.exe
+/Users/felipemomm/Downloads/GoneBananas/GoneBananasiOS/obj/iPhone/Debug/mtouch-cache/Link/MonoGame.Framework.Net.dll
+/Users/felipemomm/Downloads/GoneBananas/GoneBananasiOS/obj/iPhone/Debug/mtouch-cache/Link/CocosSharp.dll
+/Users/felipemomm/Downloads/GoneBananas/GoneBananasiOS/obj/iPhone/Debug/mtouch-cache/Link/OpenTK.dll
+/Users/felipemomm/Downloads/GoneBananas/GoneBananasiOS/obj/iPhone/Debug/mtouch-cache/Link/System.ServiceModel.Internals.dll

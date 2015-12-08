@@ -1,0 +1,15 @@
+/Users/felipemomm/Downloads/GoneBananas/GoneBananasAndroid/obj/Debug/assemblies/GoneBananasAndroid.dll
+/Users/felipemomm/Downloads/GoneBananas/GoneBananasAndroid/obj/Debug/assemblies/System.dll
+/Users/felipemomm/Downloads/GoneBananas/GoneBananasAndroid/obj/Debug/assemblies/System.Xml.dll
+/Users/felipemomm/Downloads/GoneBananas/GoneBananasAndroid/obj/Debug/assemblies/Mono.Android.dll
+/Users/felipemomm/Downloads/GoneBananas/GoneBananasAndroid/obj/Debug/assemblies/CocosSharp.dll
+/Users/felipemomm/Downloads/GoneBananas/GoneBananasAndroid/obj/Debug/assemblies/ICSharpCode.SharpZipLib.dll
+/Users/felipemomm/Downloads/GoneBananas/GoneBananasAndroid/obj/Debug/assemblies/Lidgren.Network.dll
+/Users/felipemomm/Downloads/GoneBananas/GoneBananasAndroid/obj/Debug/assemblies/MonoGame.Framework.dll
+/Users/felipemomm/Downloads/GoneBananas/GoneBananasAndroid/obj/Debug/assemblies/box2d.dll
+/Users/felipemomm/Downloads/GoneBananas/GoneBananasAndroid/obj/Debug/assemblies/System.Core.dll
+/Users/felipemomm/Downloads/GoneBananas/GoneBananasAndroid/obj/Debug/assemblies/mscorlib.dll
+/Users/felipemomm/Downloads/GoneBananas/GoneBananasAndroid/obj/Debug/assemblies/System.Runtime.Serialization.dll
+/Users/felipemomm/Downloads/GoneBananas/GoneBananasAndroid/obj/Debug/assemblies/System.ServiceModel.Internals.dll
+/Users/felipemomm/Downloads/GoneBananas/GoneBananasAndroid/obj/Debug/assemblies/OpenTK.dll
+/Users/felipemomm/Downloads/GoneBananas/GoneBananasAndroid/obj/Debug/assemblies/OpenTK-1.0.dll
